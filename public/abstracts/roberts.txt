@@ -1,0 +1,5 @@
+Lattices are a kind of mathematical structure which have significant applications to applied mathematics and physics, particularly coding theory, cryptography, and string theory. One important class of lattices are even unimodular lattices, because their theta series are modular forms.
+
+Extremal lattices, which are even unimodular lattices whose theta series are extremal modular forms, possess properties that are important for these applications, but are known not to exist beyond dimension 163,264. This motivates the study of “almost extremal” lattices; sparse families of lattices, whose theta series asymptote towards being extremal.
+
+In this talk, I will begin by introducing exactly what lattices and modular forms are, before moving on to extremal lattices and introducing the concept of sparse families of lattices. Sparse families of lattices are not known to exist, but we’ll introduce our candidate for such a family: the Barnes-Wall lattices.
